@@ -1,0 +1,49 @@
+/* styles.css */
+
+#container {
+  width: 280px;
+  height: 280px;
+  position: relative;
+
+}
+
+.block {
+  width: 68px;
+  height: 68px;
+  color: black;
+  text-align:center;
+  line-height: 50px;
+  position: absolute;
+  background: ghostwhite;
+  border: 4px solid #666363;
+  border-color: black;
+  border-width: 1px;
+  font-size: 30px;
+}
+
+#StartGame
+{
+    top: 20px;
+    position: relative;
+}
+
+#SimpleGame
+{
+    top: 20px;
+    position: relative;
+}
+
+
+#demo
+{
+    font-size: 30px;
+    top: 5px;
+    text-align: center;
+}
+#demo2
+{
+    font-size: 30px;
+    top: 5px;
+    text-align: center;
+}
+
